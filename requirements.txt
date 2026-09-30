@@ -1,2 +1,5 @@
 streamlit
-gTTS
+openai-whisper
+moviepy
+edge-tts
+pandas
